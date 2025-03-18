@@ -1,5 +1,5 @@
 # Aula Git
 ### Vingadores e Git
 aaaaaaaaaaaaaa
-bbbbbbbbbba
+bbbbbbbbbba\n
 aaaaaaa
